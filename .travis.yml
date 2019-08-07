@@ -3,6 +3,7 @@ install: true
 
 env:
   - NO_NEXUS=true
+  - SONAR_TOKEN=89086afd88232dc0bf7a9780f718b3a411c30ca1
 
 jdk:
   - openjdk8
